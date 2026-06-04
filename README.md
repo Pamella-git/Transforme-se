@@ -1,0 +1,1 @@
+Teste no Terminal do VS Code com o Claude!
